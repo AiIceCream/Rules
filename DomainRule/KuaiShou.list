@@ -1,9 +1,12 @@
 # NAME: KuaiShou
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-24 02:11:34
-# DOMAIN-SUFFIX: 676
-# TOTAL: 676
+# AUTHOR: AiIceCream
+# REPO: https://github.com/AiIceCream/Rules/tree/main/DomainRule
+# UPDATED: 2024年5月7日18:42:14
+# DOMAIN: 
+# DOMAIN-SUFFIX: 
+# IP-CIDR: 
+# PROCESS-NAME: 
+# TOTAL: 
 DOMAIN-SUFFIX,00y9334535.com
 DOMAIN-SUFFIX,027g3nkf40.com
 DOMAIN-SUFFIX,02a5ji7vso.com

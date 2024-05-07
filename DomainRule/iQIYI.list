@@ -1,12 +1,12 @@
 # NAME: iQIYI
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:03:46
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 34
-# IP-CIDR: 21
-# PROCESS-NAME: 1
-# TOTAL: 57
+# AUTHOR: AiIceCream
+# REPO: https://github.com/AiIceCream/Rules/tree/main/DomainRule
+# UPDATED: 2024年5月7日18:42:14
+# DOMAIN: 
+# DOMAIN-SUFFIX: 
+# IP-CIDR: 
+# PROCESS-NAME: 
+# TOTAL: 
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,71edge.com
