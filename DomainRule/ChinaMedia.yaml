@@ -395,6 +395,7 @@ payload:
   - DOMAIN-SUFFIX,idouyinvod.com
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,mobgslb.tbcache.com
 # 快手
 payload:
   - DOMAIN-SUFFIX,00y9334535.com
