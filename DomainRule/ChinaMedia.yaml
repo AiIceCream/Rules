@@ -396,6 +396,7 @@ payload:
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,mobgslb.tbcache.com
+  - DOMAIN-SUFFIX,bdxiguaimg.com
 # 快手
 payload:
   - DOMAIN-SUFFIX,00y9334535.com
