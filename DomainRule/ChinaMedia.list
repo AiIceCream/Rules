@@ -8,6 +8,8 @@
 # PROCESS-NAME: 
 # TOTAL: 
 
+# 浏览器进程免流
+PROCESS-NAME,ChinaUnicom.exe
 # NAME: 哔哩哔哩
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -394,6 +396,8 @@ DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,mobgslb.tbcache.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,ecombdstatic.com
 
 # NAME: 快手
 DOMAIN-SUFFIX,00y9334535.com
