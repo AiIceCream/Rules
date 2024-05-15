@@ -8,6 +8,9 @@
 # PROCESS-NAME: 
 # TOTAL: 
 
+# IP测试
+payload:
+  - DOMAIN-SUFFIX,ip138.com
 # 浏览器进程免流
 payload:
   - PROCESS-NAME,ChinaUnicom.exe
