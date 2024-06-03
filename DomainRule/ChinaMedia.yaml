@@ -11,6 +11,9 @@
 # IP测试
 payload:
   - DOMAIN-SUFFIX,ip138.com
+# 其它直连
+payload:
+  - DOMAIN-SUFFIX,chinadsl.net
 # 浏览器进程免流
 payload:
   - PROCESS-NAME,ChinaUnicom.exe
