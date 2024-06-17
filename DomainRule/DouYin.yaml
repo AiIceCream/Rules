@@ -40,3 +40,6 @@ payload:
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,mobgslb.tbcache.com
+  - DOMAIN-SUFFIX,bdxiguaimg.com
+  - DOMAIN-SUFFIX,ecombdimg.com
+  - DOMAIN-SUFFIX,ecombdstatic.com

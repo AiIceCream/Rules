@@ -1,7 +1,7 @@
 # NAME: 国内媒体 哔哩哔哩 爱奇艺 腾讯视频 优酷 湖南卫视 咪咕 虎牙 斗鱼 抖音 快手 新浪
 # AUTHOR: AiIceCream
 # REPO: https://github.com/AiIceCream/Rules/tree/main/DomainRule
-# UPDATED: 2024年5月7日18:42:14
+# UPDATED: 2024年6月17日18:42:14
 # DOMAIN: 
 # DOMAIN-SUFFIX: 
 # IP-CIDR: 
@@ -11,7 +11,7 @@
 # IP测试
 payload:
   - DOMAIN-SUFFIX,ip138.com
-# 其它国内直连
+# 国内其它直连
 payload:
   - DOMAIN-SUFFIX,chinadsl.net
 # 浏览器进程免流
@@ -379,6 +379,7 @@ payload:
   - DOMAIN-SUFFIX,oywtv.com
   - DOMAIN-SUFFIX,cloudvdn.com
   - DOMAIN-SUFFIX,livehwc3.cn
+  - DOMAIN-SUFFIX,node.ppio.cloud
 # 抖音
 payload:
   - DOMAIN-SUFFIX,douyin.com
