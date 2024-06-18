@@ -417,6 +417,7 @@ payload:
   - DOMAIN-SUFFIX,bdxiguaimg.com
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,ecombdstatic.com
+  - IP-CIDR,101.69.193.119/32
 # 快手
 payload:
   - DOMAIN-SUFFIX,00y9334535.com
