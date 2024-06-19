@@ -417,6 +417,8 @@ payload:
   - DOMAIN-SUFFIX,bdxiguaimg.com
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,ecombdstatic.com
+  - DOMAIN-SUFFIX,douyinliving.com
+  - DOMAIN-KEYWORD,douyin
   - IP-CIDR,101.69.193.119/32
 # 快手
 payload:
@@ -1205,3 +1207,4 @@ payload:
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-KEYWORD,weibo
+
