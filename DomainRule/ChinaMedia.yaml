@@ -418,6 +418,7 @@ payload:
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,ecombdstatic.com
   - DOMAIN-SUFFIX,douyinliving.com
+  - DOMAIN-SUFFIX,jomodns.com
   - DOMAIN-KEYWORD,douyin
   - IP-CIDR,101.69.193.119/32
 # 快手
