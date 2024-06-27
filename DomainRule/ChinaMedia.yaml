@@ -419,6 +419,9 @@ payload:
   - DOMAIN-SUFFIX,douyinliving.com
   - DOMAIN-SUFFIX,jomodns.com
   - DOMAIN-SUFFIX,ndcpp.com
+  - DOMAIN-SUFFIX,weilayun.com
+  - DOMAIN-SUFFIX,bsgslb.cn
+  - DOMAIN-SUFFIX,cdn.bcebos.com
   - DOMAIN-KEYWORD,douyin
   - IP-CIDR,101.69.193.119/32
 # 快手
