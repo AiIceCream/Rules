@@ -11,4 +11,4 @@
 # IP测试
 payload:
   - DOMAIN-SUFFIX,
-  - IP-CIDR,
+  - IP-CIDR,119.188.76.53/32
