@@ -424,9 +424,7 @@ payload:
   - DOMAIN-SUFFIX,bsgslb.cn
   - DOMAIN-SUFFIX,cdn.bcebos.com
   - DOMAIN-SUFFIX,bdurl.net
-#北京吉云互动科技有限公司 北京抖音信息服务有限公司：100%控股
   - DOMAIN-SUFFIX,xycdn.com
-#深圳市网心科技有限公司
   - DOMAIN-KEYWORD,douyin
   - IP-CIDR,101.69.193.119/32
 # 快手
